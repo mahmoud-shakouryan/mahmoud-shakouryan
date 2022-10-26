@@ -4,8 +4,9 @@
 I'm Mahmoud from Iran, and I develop web applications. I'm relly into learning languages and frameworks like react.js and node.js, as well as databases like mongodb. you can check my twitter at www.twitter.com/mahmoud_1886 or https://www.linkedin.com/in/mahmoudshakouryan.
 
 
-##Skills and Experiences
-:atom_symbol: React
+## Skills and Experiences
+*	:computer: HTML, CSS, JS
+*:atom_symbol: React
 
 - 🔭 I’m currently working on a fullstack mern web app 
 
