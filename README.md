@@ -1,7 +1,6 @@
+![Development](https://github.com/mahmoud-shakouryan/mahmoud-shakouryan/blob/main/github%20banner.png)
 ### Hi there 👋, Mahmoud Shakouryan
 #### Development
-![Development](https://github.com/mahmoud-shakouryan/mahmoud-shakouryan/blob/main/github%20banner.png)
-
 I'm Mahmoud from Iran, and I develop web applications. I'm relly into learning languages and frameworks like react.js and node.js, as well as databases like mongodb. you can check my twitter at www.twitter.com/mahmoud_1886 or https://www.linkedin.com/in/mahmoudshakouryan.
 
 Skills: JS / REACT / NODE
